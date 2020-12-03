@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-All Aboard Messaging (All Aboard-messaging.pdf)
+[All Aboard Messaging] (All Aboard-messaging.pdf)
 All Aboard Game Group Creation  
 All Aboard Welcome Login Page
 All Aboard Registration Page
@@ -15,8 +15,6 @@ All Aboard Wire Frames
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
-
+[Trello Board] (https://trello.com/b/B2bqXDvB/all-aboard)
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+[GitHub Repo](https://github.com/LaunchCodeLiftoffProjects/All-Aboard)
