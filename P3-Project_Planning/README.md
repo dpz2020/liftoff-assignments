@@ -15,6 +15,6 @@ All Aboard Wire Frames
 
 ### Project Tracker
 
-[Trello Board] (https://trello.com/b/B2bqXDvB/all-aboard)
+[Trello Board](https://trello.com/b/B2bqXDvB/all-aboard)
 ### Project Repo Link
 [GitHub Repo](https://github.com/LaunchCodeLiftoffProjects/All-Aboard)
