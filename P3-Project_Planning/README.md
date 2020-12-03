@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-[All Aboard Messaging] (All Aboard-messaging.pdf)
+[All Aboard Messaging] (All Aboard - messaging.pdf)
 All Aboard Game Group Creation  
 All Aboard Welcome Login Page
 All Aboard Registration Page
