@@ -7,8 +7,11 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+All Aboard Measaging
+All Aboard Game Group Creation  
+All Aboard Welcome Login Page
+All Aboard Registration Page
+All Aboard Wire Frames 
 
 ### Project Tracker
 
